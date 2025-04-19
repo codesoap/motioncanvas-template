@@ -1,6 +1,6 @@
 This is a small template for presentations about code using [Motion
-Canvas](https://motioncanvas.io). It is mostly meant to serve to assist
-my memory about how the basics of Motion Canvas work.
+Canvas](https://motioncanvas.io). It is mostly meant to assist my memory
+about how the basics of Motion Canvas work.
 
 # Getting Started
 To run locally, clone the project and do this in the root directory of
